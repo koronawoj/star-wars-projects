@@ -1,0 +1,12 @@
+export const TEST = 'TEST';
+export const LOADING_LINEAR = 'LOADING_LINEAR';
+export const LOADING_SPINNER = 'LOADING_SPINNER';
+export const SET_PEOPLE = 'SET_PEOPLE';
+export const GET_PEOPLE = 'GET_PEOPLE';
+export const CANCEL_SEARCH = 'CANCEL_SEARCH';
+export const ERROR = 'ERROR';
+export const GET_PERSON = 'GET_PERSON';
+export const SET_PERSON = 'SET_PERSON';
+export const FETCH_DONE = 'FETCH_DONE';
+export const SET_FILMS = 'SET_FILMS';
+export const FILMS_ERROR = 'FILMS_ERROR';
